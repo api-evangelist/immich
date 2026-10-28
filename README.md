@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Immich is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://immich.app/
+Immich is a self‑hosted photo and video management solution that lets users back up, organize, and browse their media on their own servers, emphasizing privacy and easy search across collections.
+
+**Areas:** Self-Hosted · Photo Management · Video Management · Privacy · Open Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://immich.app/)
+- [Documentation](https://docs.immich.app/)
+- [Getting started](https://docs.immich.app/developer/setup)
+- [Changelog](https://github.com/immich-app/immich/releases/latest/download/example.env)
+- [Blog](https://immich.app/blog/feed.xml)
+- [Security](https://github.com/immich-app/.github/blob/main/SECURITY.md)
+- [Privacy policy](https://immich.app/privacy-policy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/immich/](https://apis.io/providers/immich/).
